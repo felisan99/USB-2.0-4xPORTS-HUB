@@ -1,0 +1,18 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid bb55792e-1fda-45f6-b483-d1ac7fabe0d1)
+
+  (paper "A2")
+
+  (title_block
+    (title "USB Hub")
+    (date "2025-02-12")
+    (rev "REV 1.0")
+    (company "Felipe Santisteban Facal")
+    (comment 1 "Phil's Lab design")
+  )
+
+  (lib_symbols
+  )
+
+)
